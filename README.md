@@ -1,2 +1,1 @@
-# ieeeai-landing
-# ieeeai-landing
+# ampereai-landing
